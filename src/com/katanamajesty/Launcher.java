@@ -2,6 +2,7 @@ package com.katanamajesty;
 
 import javax.swing.*;
 
+// https://en.wikipedia.org/wiki/Perlin_noise
 public class Launcher {
 
     static PerlinNoise noise;
